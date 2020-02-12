@@ -80,6 +80,7 @@ def reduce_to_any_true(source_array)
       source_array[i] == false
       return false
     end
+  end
     
     i += 1
   end
